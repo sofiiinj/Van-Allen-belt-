@@ -494,7 +494,7 @@ def simulacion_van_allen():
         print("Animacion guardada")
 
     except Exception as e:
-        print(f"no se pudo guardo animacion")
+        print(f"no se pudo guardar animacion")
     plt.tight_layout()
     plt.show()
 
