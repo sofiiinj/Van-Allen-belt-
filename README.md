@@ -70,4 +70,4 @@ This will:
 |---|---|---|
 | Dipole — Z motion | τ = 1,400 | < 0.1% |
 | Dipole — XY motion | τ = 26,000 | < 0.1% |
-| Non-uniform field | τ = 140 | tracked |
+| Non-uniform field | τ = 140 | Energy integral monitored throughout |
