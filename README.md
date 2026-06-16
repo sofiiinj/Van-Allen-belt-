@@ -43,11 +43,7 @@ Energy conservation (|v|² = const) is used as a numerical accuracy check.
  
 ## Usage
  
-```bash
-python tarea_programada_f3.py
-```
- 
-This will:
+The program will:
 1. Run the magnetic dipole integration and print energy conservation errors
 2. Run the non-uniform field simulation
 3. Generate and save the Van Allen belt animation as `SimulacionVanAllen.gif`
