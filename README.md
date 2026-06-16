@@ -41,19 +41,6 @@ where r² = X² + Y² + Z².
  
 Energy conservation (|v|² = const) is used as a numerical accuracy check.
  
-## Requirements
- 
-```
-numpy
-scipy
-matplotlib
-```
- 
-Install with:
-```bash
-pip install numpy scipy matplotlib
-```
- 
 ## Usage
  
 ```bash
